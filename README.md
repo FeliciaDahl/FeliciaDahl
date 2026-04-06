@@ -1,6 +1,6 @@
 # Hi there 👋 I'm Felicia Dahl
 
-💻 **Web Development Student**  
+💻 **Web Developer**  
 🚀 Passionate about **backend development, microservices and modern web applications**
 
 I have a background in **logistics and project coordination**, and I enjoy solving problems, building useful systems and continuously learning new technologies.
